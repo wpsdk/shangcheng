@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>中国白酒商城</key>
+    <array>
+        <dict>
+            <key>baijiushangcheng</key>
+            <array>
+                <dict>
+                    <key>baijiushangcheng</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://www.appwk.com/casedown/baijiushangcheng.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>cn.wuxian.baijiushangcheng</string>
+                <key>bundle-version</key>
+                <string>2.0</string>
+                <key>baijiushangcheng</key>
+                <string>software</string>
+                <key>baijiushangcheng</key>
+                <string>baijiushangcheng.ipa</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
